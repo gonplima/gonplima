@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @gonplima
 - I study on UPE in Caruaru/PE, and i'm in the 2° semester in colegge of Information Systems...
 - 🌱 I’m currently learning C, but i already learned py...
-- 📫 How to reach me on discord _gonp...
-
-<!---
-gonplima/gonplima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me on discord _gonp_
